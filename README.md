@@ -1,5 +1,7 @@
 # B-Tree-Variants
-
+This is an implementation of the following Trees in C++ as outlined in their respective Research papers.
 ## uB+-Tree
+See "Adapting the B+-tree for Asymmetric I/O" by Stratis D. Viglas.
+## AB-Tree
 
-This is an implementation of the uB+-Tree in c++, as outlined in "Adapting the B+-tree for Asymmetric I/O" by Stratis D. Viglas.
+## ASB+-Tree
